@@ -135,16 +135,7 @@ This repository contains all benchmark queries, manually verified ground-truth a
 
 If you use the CIFQA benchmark or implementation in your research, please cite the accompanying paper.
 
-```bibtex
-@article{parekh2026cifqa,
-  title={Deterministic Tool-Grounded Multi-Agent LLM Framework for Calculation-Intensive Financial Query Answering (CIFQA)},
-  author={Parekh, Kunjesh and Sharma, Divya and Tiwari, Anil Kumar},
-  journal={Engineering Applications of Artificial Intelligence},
-  year={2026}
-}
-```
-
-(Update once the paper is accepted.)
+The official BibTeX citation and DOI will be added after the paper is published.
 
 ---
 
