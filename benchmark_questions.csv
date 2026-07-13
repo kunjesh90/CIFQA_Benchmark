@@ -1,0 +1,128 @@
+﻿Sr,Queries,Category,Sub-Category / Edge Case Tag,Lingo Type
+1,"How much interest income I'll get in the first quarter of booking FD on 23Sep2024? FD booking amount 1,00,000, tenure 3 years.I am a senior citizen",Quarterly Payout,Q1 only – senior citizen 3yr,Formal
+2,"Booked FD on 23Sep2024. FD booking amount 1,00,000, tenure 3 years.I am a senior citizen. Howmuch interest income I will earn till maturity?It's quarterly intrest payout fd.",Quarterly Payout,Full schedule till maturity – senior 3yr,Informal spelling
+3,"Why did I receive only 1795 at the end of first quarter for my FD booked of 1lac on 23Sep2024 for 3 years tenure, interest payout quarterly.I am a senior citizen.",TDS / Mismatch,10% TDS explanation – senior Q1,Informal
+4,"I booked an FD of ₹2,50,000 on 5th January 2025 for 18 months. I am a normal citizen. How much 1st quarterly interest will I receive?",Quarterly Payout,Q1 only – regular citizen 18 months,Formal
+5,"FD booked ₹50,000 on 20 June 2025 for 400 days, senior citizen. Interest payout quarterly. How much will I get each quarter?",Quarterly Payout,Full schedule – 400-day senior,Formal
+6,"FD ₹3,00,000 booked on 10 October 2024 for 5 years, senior citizen, quarterly payout. How much interest in first quarter?",Quarterly Payout,Q1 only – senior 5yr,Formal
+7,"I booked a ₹2,00,000 FD on 15 October 2024 for 2 years as a senior citizen with quarterly payout. I received only ₹3,125 this quarter. Why did I get less interest on 15Jan2025?",TDS / Mismatch,Received less – mismatch with expected Q1,Formal
+8,"FD ₹1,50,000 booked on 28 Oct 2024 for 3 years, senior citizen, cumulative quarterly. How much will I receive at maturity?",Cumulative FD,Maturity amount – senior 3yr,Formal
+9,"FD ₹2,00,000 booked on 5 June 2025 for 5 years, regular citizen, cumulative quarterly. What is the maturity amount and interest earned?",Cumulative FD,Maturity + interest – regular 5yr,Formal
+10,"If I book  an FD of ₹1,00,000 on 16th  April 2025 for 244 days, senior citizen , I am NRI. Interest  is payed out  quarterly. How much will I get  on 3rd Quarter?",Quarterly Payout,Specific quarter Q3 – NRI senior 244 days,Formal with typo ('payed')
+11,"If I book FD of Rs. 5 Cr on 19th Feb 2024 for 2 years, How much interest will I get?
+I am Senior citizen NRI.",Cumulative FD,Total interest – NRI senior bulk 2yr,Formal
+12,"I booked FD for Rs. 1,00,000 on 4th of July 2024 for 3 years quarterly payout , I received Rs. 1512,Why did I receive less on 4th October 2024 ?",TDS / Mismatch,Received less – regular 3yr Q1,Informal (missing comma)
+13,"I booked an FD of Rs. 5,00,000 on 30th November 2023 for 9 months. How much will I receive monthly ? I am a senior citizen.",Monthly Payout,Full schedule – NRI senior 9 months EOM,Formal
+14,"I booked FD of Rs.2,00,000 on 10th January 2025 for 4 Quarters .How much will I receive on Maturity?",Cumulative FD,Maturity – regular 4 quarters,Formal
+15,"I am a senior citizen. I booked a ₹3,00,000 FD with a Quarterly Interest Payout option on March 25, 2024, for a 5-year tenure. However, I closed the FD on November 20, 2024. How much will be the final settlement amount paid to me, considering I have already received two quarterly interest payments? ",Premature Withdrawal,Closed after 2 payouts – senior 5yr,Formal
+16,"FD booked of amt 120,000 on 1jan 2023 for 2 years quarterly interest paying fd closed on 1 jan 2025. howmuch will be settlement?",Premature Withdrawal,Settlement – regular 2yr closed on maturity,Informal
+17,"FD booked of amt 224,000 on 1jan 2023 for 2 years half yearly interest paying fd. howmuch half yearly interest i'll get for each half year?",Half-Yearly Payout,Full schedule – regular 2yr half-yearly,Informal
+18,"booked an fd of 1,24,565 on 23 dec 2025 for 1 year, breaking today. howmuch will be proceedings.",Premature Withdrawal,Breaking today – 1yr cumulative,Very informal
+19,what is the tenure for which senior citizens get the best interest rate?,Rate Query,Best rate for senior citizen,Informal
+20,"I broke my ₹3,50,000 FD on 5 July 2024, which I had booked a quarterly interest paying FD on 30 Nov 2023 for 2 years. The maturity amount seems less than what I expected. Can you explain why?",Premature Withdrawal,Broke quarterly payout FD – regular 2yr,Formal
+21,"How much interest income I'll get in the 8th ans 6th quarter of booking FD on 12Feb2024? FD booking amount 1,00,000, tenure 3 years.I am a senior citizen",Quarterly Payout,Q6 and Q8 specific – senior 3yr,Informal (typo 'ans'→'and')
+22,"I put Rs. 1,00,000 in an FD starting 1st April 2025 for 2 years, regular citizen, quarterly interest payout. Give me the complete interest schedule for all 8 quarters.",Quarterly Payout,Full schedule – basic regular 2yr,Formal
+23,"Mera FD 75,000 ka hai, 15 March 2025 se shuru, 1 saal ke liye, senior citizen, quarterly. Pehle quarter mein kitna milega?",Quarterly Payout,Single Q1 – Hindi-English mix,Hindi-English mix
+24,"FD of Rs. 2,00,000 booked 1 Jan 2024, 3 year tenure, regular citizen, quarterly payout. How much will I pocket in the 7th instalment?",Quarterly Payout,Specific Q7 – 'instalment' lingo,Formal-alternative
+25,"Deposited 3 lakhs on 10 Nov 2024 for 2 years, quarterly interest, senior citizen. What will I receive in the very last quarterly payout?",Quarterly Payout,Last quarter – 'final payout' lingo,Formal
+26,"I opened a fixed deposit of Rs. 1,50,000 on 1st December 2023, 3-year term, regular citizen, quarterly payout. How much is Q3?",Quarterly Payout,Leap year rolling period – Q3,Formal
+27,"Booked Rs. 80,000 FD on 1 July 2025 for 400 days, senior citizen, quarterly interest. Give me the complete payout schedule including the stub period.",Quarterly Payout,400-day tenure – full schedule,Formal
+28,"As an NRI senior citizen I wish to park Rs. 5,50,00,000 for 3 years from 1 Feb 2025 with quarterly interest. What will each quarterly cheque be?",Quarterly Payout,NRI senior bulk >=3CR – Q1,Formal
+29,"yaar mera 50k fd hai 23 sep 2024 se, 2 saal, senior, quarterly wala. first quarter mein paisa kitna aayega bhai?",Quarterly Payout,Very informal WhatsApp lingo,Very informal
+30,"I booked Rs. 1,00,000 FD on 31st January 2025, regular citizen, 1 year, quarterly payout. What are all quarterly credit dates and amounts?",Quarterly Payout,EOM snap – 31 Jan start all quarters,Formal
+31,"Fixed deposit of Rs. 2,00,000 booked on 30 November 2024, 2 years, senior citizen, quarterly payouts. List all 8 credit amounts with dates.",Quarterly Payout,EOM snap – 30 Nov start 8 quarters,Formal
+32,"I want to invest Rs. 2,99,00,000 from 1st March 2025 for 2 years, regular citizen, quarterly payout. How much interest per quarter?",Quarterly Payout,Bulk just under 3CR boundary,Formal
+33,"I'm putting Rs. 1,25,000 in an FD for 8 quarters starting 15 Jan 2025. I'm a senior citizen. How much quarterly interest per period?",Quarterly Payout,Tenure in quarters lingo – 8 quarters,Alternative unit
+34,"FD Rs. 3,00,000 booked on 23 Sep 2024, 3 years, senior citizen, quarterly payout. Why is Q2 interest different from Q5 even though days look the same?",Quarterly Payout,Compare Q2 vs Q5 – why different,Analytical
+35,"I plan to open an FD of Rs. 50,000 for exactly 91 days starting 1 June 2025, regular citizen, quarterly interest. What will I receive?",Quarterly Payout,Short tenure exactly 91 days – single period,Formal
+36,"Rs. 4,00,00,000 FD on 1 Apr 2024, 5 years, senior citizen NRI, quarterly payout. What is the first quarter interest?",Quarterly Payout,Senior bulk 5yr NRI – Q1,Formal
+37,"FD 100000 INR, start date 03/15/2025, 2 years, regular citizen, quarterly interest payout. How much in first quarter?",Quarterly Payout,American date format MM/DD/YYYY,Date format variation
+38,I would like to understand the interest that will be deposited into my savings account at the conclusion of the very first three-month interval for my fixed deposit of rupees two lakh fifty thousand commencing the first day of May two thousand and twenty five for eighteen months I am a regular taxpaying citizen of India.,Quarterly Payout,Fully spelled-out wordy query,Verbose / spelled-out
+39,"FD of Rs. 1,00,000 on 23 Sep 2024, 3 years, senior citizen, quarterly payout. How much will I get in Q11 and Q12?",Quarterly Payout,Q11 and Q12 – leap year rolling_year,Formal
+40,"Booked Rs. 5,00,000 FD on 1 March 2025 for 1 year, senior citizen, monthly interest payout. List all 12 monthly credits with amounts.",Monthly Payout,Full 12-month schedule – senior 1yr,Formal
+41,"I put Rs. 2,00,000 in a monthly payout FD on 31st October 2024 for 6 months, regular citizen. What are my 6 monthly payout dates and amounts?",Monthly Payout,EOM snap – 31 Oct start 6 months,Formal
+42,"FD of Rs. 1,00,000 on 29th February 2024, 1 year, regular citizen, monthly payout. How much interest will I receive in the 12th month?",Monthly Payout,Leap start 29 Feb – M12 amount,Edge – leap start
+43,"I am an NRI senior citizen. I deposited Rs. 3,00,000 on 30 Nov 2023 for 9 months with monthly interest. Give me the full monthly schedule.",Monthly Payout,NRI senior 9 months – full schedule,Formal
+44,"FD Rs. 1,50,000 booked on 5 June 2025, 18 months, regular citizen, monthly payout. How much will I receive in month 6?",Monthly Payout,Specific month M6 only,Formal
+45,"50k FD, 15 aug 2025, 6 months, monthly milta hai, regular citizen. har month kitna aata hai?",Monthly Payout,Informal Hindi – har month kitna,Very informal Hindi
+46,"I'm investing Rs. 3,50,00,000 on 1 Jan 2025 for 2 years, monthly interest payout, senior citizen. How much is credited each month?",Monthly Payout,Bulk monthly senior >=3CR,Formal
+47,"Opened an FD of Rs. 75,000 on 20 June 2025 for 400 days, regular citizen, monthly interest payout. How many monthly payouts will I receive and what is total interest?",Monthly Payout,400 days – count periods + total,Formal
+48,"Placed Rs. 2,25,000 in a 2-year monthly interest FD on 14th Feb 2025. I am a senior citizen. What will my very first monthly credit be?",Monthly Payout,First month only – Feb start,Formal
+49,"FD Rs. 1,00,000, start 1 Apr 2025, 1 year, regular citizen, monthly payout. How much will I get in the very last monthly payout?",Monthly Payout,Last month only – Apr start,Formal
+50,"I booked Rs. 3,00,000 FD on 1 January 2025 for 2 years, senior citizen, half yearly payout. What is the complete payout schedule with dates and amounts?",Half-Yearly Payout,Full 4-period schedule – senior 2yr,Formal
+51,"FD of Rs. 2,00,000 started on 31st August 2024 for 18 months, regular citizen, interest paid every 6 months. List all payouts with dates.",Half-Yearly Payout,EOM snap – 31 Aug start 18 months,Formal
+52,"Invest Rs. 4,00,000 on 15 March 2025 for 3 years, regular citizen, biannual interest payout. How much each payout?",Half-Yearly Payout,Lingo – 'biannual interest',Alternative lingo
+53,"I am an NRI senior citizen. I deposited Rs. 1,00,00,000 on 1 July 2024 for 5 years, interest every six months. How much in the first half-year payout?",Half-Yearly Payout,NRI senior bulk H1 only,Formal
+54,"FD Rs. 5,00,000 on 1 Oct 2024, 3 years, senior citizen, half yearly payout. What do I receive in my 3rd half-yearly credit?",Half-Yearly Payout,Specific H3,Formal
+55,"Booked Rs. 1,25,000 FD on 1 June 2025 for 400 days, regular citizen, half yearly interest. Give me the complete schedule.",Half-Yearly Payout,400-day tenure – partial last,Formal
+56,"I wish to put Rs. 1,00,000 in a cumulative FD for 2 years starting 1st April 2025. I am a regular citizen. What will I receive at maturity?",Cumulative FD,Basic 2yr regular,Formal
+57,"If I open an FD of Rs. 2,00,000 on 29 February 2024 for 3 years as a regular citizen, cumulative, what is the maturity amount and date?",Cumulative FD,29 Feb + 3 years EOM snap,Edge – leap start
+58,"Booked Rs. 75,000 FD on 31st January 2025, 1 year, senior citizen, cumulative. What is the maturity amount?",Cumulative FD,31 Jan + 1 year EOM,Edge – EOM
+59,"I deposited Rs. 5,00,000 on 15 May 2025 for 18 months, regular citizen, cumulative FD. What is the maturity value?",Cumulative FD,18 months – n=6,Alternative unit
+60,"Opening a Rs. 3,00,000 FD for 4 quarters from 1 Feb 2025, regular citizen, cumulative. How much at the end?",Cumulative FD,4 quarters = 1 year lingo,Alternative unit
+61,"Rs. 10,00,000 FD on 1 March 2024 for 5 years, senior citizen NRI, cumulative. Maturity amount?",Cumulative FD,5yr spanning 2 leap years – NRI senior,Formal
+62,"I want to park Rs. 5,00,00,000 in a 3 year cumulative FD from 1 January 2025. I am a senior citizen, non-NRI. What will I receive at maturity?",Cumulative FD,Bulk >=3CR senior 3yr,Formal
+63,"How much will my Rs. 2,50,000 grow if I book a cumulative FD on 1 Jun 2025 for 2 years as a regular citizen?",Cumulative FD,Lingo – 'how much will my money grow',Casual / growth framing
+64,"I'm a senior citizen and I want to put Rs. 1,00,000 in a fixed deposit for 5 years starting 1 Apr 2025. How much extra will I earn on top of my principal?",Cumulative FD,Lingo – 'extra money on top of principal',Casual
+65,"As an NRI I want to invest Rs. 3,50,00,000 in a 2-year cumulative FD from 1 March 2025. I am not a senior citizen. What is the maturity amount?",Cumulative FD,NRI regular bulk 2yr,Formal
+66,"I booked Rs. 1,00,000 FD on 1 Jan 2024 for 2 years. I closed it on exactly 1 Jan 2026. Regular citizen. How much do I get?",Premature Withdrawal,Closed exactly on maturity – NOT premature,Trap – boundary
+67,"I had a Rs. 2,00,000 FD from 1 March 2023 for 2 years. I closed it on 28 February 2025 (one day early), regular citizen. What is my settlement?",Premature Withdrawal,1 day before maturity,Edge – 1 day early
+68,"I booked a Rs. 5,00,000 quarterly payout FD on 1 Jan 2024 for 3 years, senior citizen. I broke it on 1 July 2025 having already received 6 quarterly credits. What is my final settlement?",Premature Withdrawal,Quarterly payout FD broken – 6 payouts received,Formal
+69,"I wish to liquidate my FD of Rs. 3,00,000 opened on 15 June 2024 for 3 years, senior citizen, cumulative. Closing date is 20 December 2024. How much will I get?",Premature Withdrawal,Lingo – 'liquidate',Alternative lingo
+70,"I need to encash my FD prematurely. Booked Rs. 1,50,000 on 10 Feb 2025 for 2 years, regular citizen, cumulative. Encashing on 1 Sep 2025. Settlement?",Premature Withdrawal,Lingo – 'encash',Alternative lingo
+71,"Booked Rs. 4,00,000 half-yearly payout FD on 1 Oct 2023 for 3 years, regular citizen. Closed on 15 April 2025 after receiving 3 half-yearly payouts. What is my settlement?",Premature Withdrawal,Half-yearly payout FD broken – 3 payouts received,Formal
+72,"I booked Rs. 50,000 FD on 1 March 2025 for 1 year, regular citizen. I want to close it on 5 March 2025 (4 days later). What will I get?",Premature Withdrawal,Holding < 7 days – no interest,Edge – very short holding
+73,"I am an NRI senior citizen. I put Rs. 5,00,00,000 in a 3-year FD from 1 Jan 2024. I need to break it on 30 June 2025. What is my settlement?",Premature Withdrawal,Large NRI senior – 18 months holding,Formal
+74,"I had a Rs. 2,00,000 monthly payout FD starting 1 Apr 2024 for 2 years, regular citizen. I closed it on 1 Oct 2024 having received 6 monthly payouts. Final settlement?",Premature Withdrawal,Monthly payout FD broken – 6 payouts received,Formal
+75,"I surrendered my FD on 1 May 2025. Booked Rs. 80,000 on 1 November 2024 for 18 months, senior citizen, cumulative. What proceeds do I receive?",Premature Withdrawal,Lingo – 'surrendered my FD',Alternative lingo
+76,"I received only Rs. 1,596 at the end of Q1 for my Rs. 1,00,000 FD booked on 23 Sep 2024 for 3 years, senior citizen, quarterly. Why?",TDS / Mismatch,20% TDS – no PAN,Formal
+77,"My FD is Rs. 2,00,000, booked 1 Jan 2025, 2 years, senior citizen, quarterly. I submitted Form 15H. I received Rs. 3,493 this quarter. Is that correct?",TDS / Mismatch,Form 15H – no TDS,Formal
+78,"I expected Rs. 2,200 per quarter on my Rs. 1,00,000 FD booked 1 April 2025 for 3 years, regular citizen, quarterly. But I got only Rs. 1,740. What went wrong?",TDS / Mismatch,User thinks wrong rate applied,Formal
+79,"Why did I receive only Rs. 3,143 instead of Rs. 3,493 on my Rs. 2,00,000 FD from 1 Jan 2025, 2 years, senior citizen quarterly?",TDS / Mismatch,10% TDS – PAN submitted,Formal
+80,"I opened an FD of Rs. 3,00,000 on 15 Jan 2025 for 2 years, regular citizen, quarterly. I got Rs. 2,800 in first quarter. Is this correct?",TDS / Mismatch,Partial first quarter mismatch,Formal
+81,I am a senior citizen. For what tenure will I earn the maximum interest rate on my FD?,Rate Query,Best rate – senior citizen,Formal
+82,I have Rs. 5 lakhs to invest. Should I book a 2-year or 3-year cumulative FD as a regular citizen? Which gives more total interest?,Rate Query,2yr vs 3yr total interest comparison,Analytical
+83,Is there any difference in FD interest rates for NRI and non-NRI customers for amounts below 3 crore?,Rate Query,NRI vs non-NRI rate difference,Policy
+84,What is the current interest rate for a 400-day FD for a regular citizen with amount less than 3 crore?,Rate Query,400-day special slab lookup,Formal
+85,"I have Rs. 3,20,00,000 to invest for 2 years. As a regular citizen, what rate would I get and how does it compare to the sub-3-crore rate?",Rate Query,Bulk vs retail comparison,Analytical
+86,"I booked Rs. 1,00,000 FD on 1 April 2025 for exactly 365 days, senior citizen, quarterly payout. Which rate bracket applies – '185 days to <1yr' or '1yr to <2yr'?",Edge Cases,Exactly 365 days – which bracket?,Boundary
+87,"Rs. 2,00,000 FD on 1 Jan 2025 for exactly 730 days, regular citizen, cumulative. Maturity amount?",Edge Cases,Exactly 730 days – boundary,Boundary
+88,"I booked Rs. 5,00,000 on 30 November 2023 for 9 months, regular citizen, monthly payout. On which exact date do I receive my last monthly credit?",Edge Cases,30 Nov + 9 months – last credit date,EOM edge
+89,"FD Rs. 1,00,000 booked on 29 Feb 2024 for 1 year, regular citizen, quarterly payout. What is the exact maturity date and Q1 interest?",Edge Cases,29 Feb 2024 + 1 year = 28 Feb 2025,Leap EOM
+90,"I opened Rs. 75,000 FD on 31st March 2025 for 6 months, senior citizen, monthly payout. Give exact maturity date and full monthly schedule.",Edge Cases,31 Mar + 6 months EOM – monthly schedule,EOM
+91,"Rs. 1,00,000 FD on 1 Jan 2025 for 184 days, regular citizen, quarterly payout. Which rate bracket applies and how much first-quarter interest?",Edge Cases,184 days – last day of bracket,Boundary
+92,"Rs. 1,00,000 FD on 1 Jan 2025 for 185 days, regular citizen, cumulative. What is the maturity amount?",Edge Cases,185 days – first day of next bracket,Boundary
+93,"I want to book an FD of exactly Rs. 3,00,00,000 on 1 Feb 2025 for 2 years, regular citizen, cumulative. What rate applies – retail or bulk?",Edge Cases,"Exactly Rs. 3,00,00,000 – retail or bulk?",Amount boundary
+94,"I have 2 lakh rupees to put in an FD starting 1 Jan 2025. I am a senior citizen, cumulative. How much will I get at maturity?",Robustness / Invalid,Missing tenure – should ask,Incomplete input
+95,"I have an FD of Rs. 1,00,000 for 2 years, regular citizen, quarterly payout. How much per quarter?",Robustness / Invalid,Missing start date – should ask,Incomplete input
+96,"I booked an FD on 1 Jan 2025 for 3 years, senior citizen, cumulative. What will I get at maturity?",Robustness / Invalid,Missing principal – should ask,Incomplete input
+97,"What will be my FD interest for Rs. 2,00,000 booked on 15 Feb 2025 for 1 year, regular citizen?",Robustness / Invalid,Ambiguous payout type – default cumulative,Ambiguous
+98,What is the weather in Mumbai today?,Robustness / Invalid,Off-topic query,Off-topic
+99,"i boookd an fd of 1,oo,ooo on 23 sep 2o24 4 3 yers senoir citizn quartly. hw mch?",Robustness / Invalid,Heavy typos – robustness,Typo-heavy
+100,"I booked Rs. 1,00,000 FD on 1 Jan 2025 for 2 years; maturity date is 31 Dec 2026. Regular citizen, cumulative. Maturity amount?",Robustness / Invalid,Contradictory tenure vs maturity date,Contradictory info
+101,"I plan to book Rs. 2,00,000 FD on 1 January 2028 for 2 years, regular citizen, cumulative. What will be my maturity amount?",Robustness / Invalid,Future booking date,Future date
+102,"If I withdraw my FD before maturity, will I get the contracted rate or the rate applicable to the period I actually held it?",Premature Withdrawal,Interest Rate on Premature Withdrawal,Formal / Policy Query
+103,"My FD is Rs. 50,000. The bank never informed me about the premature withdrawal penalty at the time of booking. Can they still deduct a penalty?",Premature Withdrawal,Penalty Disclosure & Waiver,Grievance / Rights Query
+104,My father passed away. I want to split his Rs. 2 lakh FD into two FDs of Rs. 1 lakh each without changing the tenure or aggregate amount. Will I be charged a premature withdrawal penalty?,Premature Withdrawal,Penalty Waiver — Deceased / Split,Situational / Inheritance Query
+105,I held an FD for only 5 days and want to close it. Am I entitled to any interest?,Premature Withdrawal,Minimum Tenure & Zero Interest,Direct / Factual Query
+106,What is the minimum tenure for a domestic term deposit as per RBI rules?,Term Deposit Rules,Minimum Tenure — Domestic,Regulatory / Factual Query
+107,I am an NRI and want to open an NRE term deposit for 6 months. Is this allowed?,NRI Deposits,Minimum Tenure — NRE,Eligibility Query
+108,Can I open an NRO term deposit for 10 days?,NRI Deposits,Minimum Tenure — NRO,Eligibility Query
+109,My FD is in the name of my HUF and I am the Karta and a senior citizen. Will I get the senior citizen interest rate benefit?,Senior Citizen Benefits,HUF / Karta Exclusion,Eligibility Query
+110,I am a retired bank employee and also a senior citizen. Can I get both the staff additional interest AND the senior citizen benefit on the same FD?,Senior Citizen Benefits,Dual Benefit — Staff + Senior Citizen,Eligibility Query
+111,Can a bank offer a higher and fixed interest rate specifically for senior citizens on deposits of any size?,Senior Citizen Benefits,Senior Citizen Rate — Any Deposit Size,Regulatory / Policy Query
+112,"As an NRI, can my NRE deposit earn a higher interest rate than what the bank offers on its comparable domestic deposits?",NRI Deposits,NRE Rate Cap vs Domestic Rate,Comparative / Policy Query
+113,I am an NRI senior citizen. Will I get the senior citizen additional interest rate on my NRE deposit?,NRI Deposits,Senior Citizen Benefit Exclusion — NRE/NRO,Eligibility Query
+114,"I have an NRE FD of Rs. 80,000. Does the bank have to provide a premature withdrawal facility?",NRI Deposits,Mandatory Premature Withdrawal — NRE ≤1CR,Rights / Compliance Query
+115,My FD matured 3 months ago and I forgot to renew or withdraw it. What interest rate applies to the unclaimed amount now?,Overdue / Unclaimed Deposits,Interest on Unclaimed Matured FD,Situational Query
+116,My mother held a domestic FD that matured last month. She passed away before maturity but I am claiming it now (after maturity). What interest applies?,Deceased Depositor,"Domestic FD — Death Before Maturity, Claim After",Inheritance / Situational Query
+117,I am a resident Indian. My NRI father had an NRE FD that matured. He passed away after maturity. How will the proceeds be treated?,Deceased Depositor,"NRE FD — Death After Maturity, Resident Claimant",Inheritance / Situational Query
+118,My FD matures on a Sunday. The bank will pay me on Monday. Will I get interest for Sunday at the contracted rate?,Non-Business Day Rules,Interest on Non-Business Maturity Day — Regular FD,Procedural Query
+119,I have a reinvestment (cumulative) FD maturing on a public holiday. On what amount does the bank calculate interest for that holiday?,Non-Business Day Rules,Interest on Non-Business Maturity Day — Reinvestment FD,Procedural / Technical Query
+120,What is the RBI definition of a bulk deposit?,Bulk Deposits,Definition — Bulk Deposit Threshold,Definitional / Factual Query
+121,I have Rs. 2.5 crore to deposit. Can the bank offer me a specially negotiated higher interest rate since the amount is large?,Bulk Deposits,Rate Negotiation — Below Bulk Threshold,Eligibility / Negotiation Query
+122,My bank branch is being taken over by another bank and I want to prematurely withdraw my FD as a result. Will I be charged a premature withdrawal penalty?,Premature Withdrawal,Penalty Waiver — Branch Takeover,Situational / Rights Query
+123,I have returned to India permanently and want to convert my NRE FD into an RFC (Resident Foreign Currency) account. Will a premature withdrawal penalty apply?,NRI Deposits,Penalty Waiver — NRE to RFC Conversion,Returning NRI / Situational Query
+124,On how many days per year basis is interest calculated on FCNR(B) deposits — 360 or 365?,FCNR(B) Deposits,Interest Calculation Basis — 360 Days,Technical / Factual Query
+125,I have an FCNR(B) deposit and I want to withdraw it before completing the minimum stipulated period of one year. Will I get any interest?,FCNR(B) Deposits,Premature Withdrawal — Before Minimum Period,Eligibility / Policy Query
+126,At what intervals is interest paid on FCNR(B) deposits?,FCNR(B) Deposits,Interest Payment Periodicity — 180 Days,Procedural / Factual Query
