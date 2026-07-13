@@ -17,7 +17,7 @@ The repository enables researchers to reproduce the experiments reported in the 
 | `Main_CIFQA_Notebook.ipynb` | Main implementation of the CIFQA framework. Upload this notebook along with the supporting files to Google Colab and execute all cells to reproduce the framework and experimental results. |
 | `Ablation_Study_Notebook.ipynb` | Notebook for reproducing the ablation study presented in the manuscript. |
 | `benchmark_questions.csv` | CIFQA benchmark containing all **126 benchmark queries**, their categories, and associated metadata. |
-| `Benchmark_questions.xlsx` | Manually verified ground-truth answers for all benchmark queries. |
+| `Benchmark_questions_answers.xlsx` | Manually verified ground-truth answers for all benchmark queries. |
 | `CIFQA_Results.xlsx` | Complete evaluation results, including CIFQA outputs, agentic model results, and frontier LLM responses obtained using the standardized benchmark prompt. |
 | `CIFQA_Ablation_Results.xlsx` | Results of the ablation study for benchmark queries applicable to each ablation experiment. |
 | `Benchmark_Prompt.docx` | Standardized benchmark prompt used for evaluating frontier LLMs under a consistent experimental setting. |
