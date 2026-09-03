@@ -145,6 +145,14 @@ This repository is released under the MIT License.
 
 ---
 
+## Publication
+
+A preprint of this work is available on arXiv:
+
+https://arxiv.org/abs/2608.26114
+
+The journal manuscript is currently under consideration.
+
 # Authors
 
 **Kunjesh Parekh**  
